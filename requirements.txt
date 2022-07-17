@@ -1,0 +1,5 @@
+numpy>=1.22.3
+pillow==9.2.0
+requests==2.25.0
+matplotlib==3.4.3
+opencv-python==4.6.0.66
